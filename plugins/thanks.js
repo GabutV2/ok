@@ -1,4 +1,4 @@
-let handler = async m => m.reply(`Yoi Cuyy🗿`.trim()) // Tambah sendiri kalo mau
+let handler = async m => m.reply(`Thank To Dev Reii`.trim()) // Tambah sendiri kalo mau
 handler.help = ['thanks']
 handler.tags = ['info']
 handler.command = /^thanks|terima kasih|terimakasih$/i

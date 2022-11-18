@@ -3,7 +3,7 @@ let handler  = async (m, { conn, participants, usedPrefix: _p }) => {
     let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let name = conn.getName(who)
 	
-                    let wan = 'https://i.ibb.co/7kSnyh8/IMG-20221111-104556.jpg'
+                    let wan = 'https://i.ibb.co/WzLBSqb/jnck.jpg'
 let anu2 =`Esceh?\nNih:`
   conn.sendButtonImg(m.chat, await(await fetch(wan)).buffer(), anu2, botdate, 'Owner', 'owner',)
 }

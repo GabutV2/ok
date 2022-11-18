@@ -55,7 +55,7 @@ let handler = async (m, { conn, isRowner}) => {
   let neww = performance.now()
   let session = fs.statSync(authFile)
   let speed = neww - old
-  let wan = 'https://i.ibb.co/7kSnyh8/IMG-20221111-104556.jpg'
+  let wan = 'https://i.ibb.co/WzLBSqb/jnck.jpg'
   let runtt = `*s ᴘ ᴇ ᴇ ᴅ*
 ${Math.round(neww - old)} ms
 ${speed} ms
@@ -101,13 +101,13 @@ await conn.send2ButtonDoc(m.chat, runtt, botdate, 'Owner', '.owner', 'Menu', '.M
     mediaUrl: syt,
     renderLargerThumbnail: true,
     showAdAttribution: false,
-    sourceId: '© Jaya-Botz ',
+    sourceId: '© nekobotyt-𝐁𝐨𝐭𝐳 ',
     sourceType: 'PDF',
     previewType: 'PDF',
     sourceUrl: wame,
     thumbnail: await(await fetch(wan)).buffer(),
     thumbnailUrl: syt,
-    title: 'Jaya-Botz',
+    title: 'nekobotyt-𝐁𝐨𝐭𝐳',
 				}
 			}
 })

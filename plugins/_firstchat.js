@@ -6,7 +6,7 @@ if (m.chat.endsWith('broadcast') || m.fromMe || m.isGroup || db.data.settings[th
     if (new Date - user.pc < cooldown) return // setiap 24 jam sekali
     let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
     let name = await conn.getName(who)
-    let wan = 'Jaya-Botz'
+    let wan = 'nekobotyt-𝐁𝐨𝐭𝐳'
     let caption = `Halo ${name}, Saya Adalah ${wan}, ${user.banned ? 'kamu dibanned' : `Ada yang bisa ${wan}, bantu?\nKetik *.menu* Untuk Melihat Semua Fitur Bot.`}
 `.trim()
     this.sendButton(m.chat, caption, botdate, null, [[user.banned ? 'Owner' : 'Menu', user.banned ? '/owner' : '/menu']], m, { mentions: this.parseMention(caption) })

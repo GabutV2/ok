@@ -41,7 +41,7 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['6281384305905', 'Owner PewDiePie Botz', true],
-['6281384305905', 'Dev Jaya Botz', true]
+['6281384305905', 'Owner PewDiePie Botz', true]
 ]
 global.mods = []
 global.prems = []
@@ -91,9 +91,9 @@ global.syt = 'https://youtu.be/xiEfum5-KNw' //youtube
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '082113800141'
 global.povo = '082113800141'
-global.pgopay = '-'
+global.pgopay = '082113800141'
 global.plinkaja = '-' //link aja
-global.ppulsa = '082113800141'
+global.ppulsa = '-'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 

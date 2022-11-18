@@ -10,7 +10,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "product": {
 "productImage": messa.imageMessage,
 "productId": "5326844927399395",
-"title": `𝐒𝐞𝐰𝐚𝐁𝗼𝐭 | 「 Jaya-Botz 」`,
+"title": `𝐒𝐞𝐰𝐚𝐁𝗼𝐭 | 「 nekobotyt-𝐁𝐨𝐭𝐳 」`,
 "description": `gaktau`,
 "currencyCode": "IDR",
 "bodyText": `gaktaukalo🗿`,
@@ -19,10 +19,10 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productImageCount": 100,
 "firstImageId": 1,
 "salePriceAmount1000": "99999999",
-"retailerId": `「 Jaya-Botz 」`,
-"url": "wa.me/6287778405247"
+"retailerId": `「 nekobotyt-𝐁𝐨𝐭𝐳 」`,
+"url": "wa.me/6281384305905"
 },
-"businessOwnerJid": "6287778405247@s.whatsapp.net",
+"businessOwnerJid": "6281384305905@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: m })
 conn.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })

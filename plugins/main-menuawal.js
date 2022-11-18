@@ -101,7 +101,7 @@ await conn.send2ButtonDoc(m.chat, cap, botdate, 'ALL MENU', '.? all', 'LIST MENU
     sourceUrl: sgc,
     thumbnail: await(await fetch(wann)).buffer(),
     thumbnailUrl: sgc,
-    title: 'Jaya-Botz',
+    title: 'nekobotyt-𝐁𝐨𝐭𝐳',
 				}
 			}
 })
