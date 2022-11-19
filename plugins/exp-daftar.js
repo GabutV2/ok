@@ -60,7 +60,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
 ┗━━━━━━━━━━㉿ 
 ⫹⫺ 
 ⫹⫺`, 
-   footer: `*┗ © Jaya-Botz*`, 
+   footer: `*┗ © nekobotyt-𝐁𝐨𝐭𝐳*`, 
    title: "", 
    buttonText: "CLICK HERE", 
    sections 
@@ -87,7 +87,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
  ╭━━━━「 *BERHASIL* 」
  ❖ Terima kasih ${name} Sudah mendaftar
 Di Database kami
- ❖ © Jaya-Botz || ALL RESERVED
+ ❖ © nekobotyt-𝐁𝐨𝐭𝐳 || ALL RESERVED
 
  ╭━━━━「 *DATA* 」
  ┊⫹ *Sucsess ☑️* 】Status
