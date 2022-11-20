@@ -40,60 +40,60 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281384305905', 'Owner PewDiePie Botz', true],
-['6281384305905', 'Owner PewDiePie Botz', true]
+['6285664221805', '𝑮𝒂𝒏𝒛𝑫𝒆𝒗', true],
+['6285664221805', '𝑮𝒂𝒏𝒛𝑫𝒆𝒗', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282112528815'
-global.nomorown = '6281384305905'
-global.nomorown1 = '6281384305905'
-global.nomorown2 = '6281384305905'
-global.nomorwa = '0'
+global.nomorbot = '6282112882744'
+global.nomorown = '6285664221805'
+global.nomorown1 = '6285664221805'
+global.nomorown2 = '6285664221805'
+global.nomorwa = '6282112882744'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = 'nekobotyt-𝐌𝐃 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
-global.author = '「 nekobotyt-𝐌𝐝 」'
-global.namebot = '​ 「 nekobotyt-𝐁𝐨𝐭𝐳 」'
-global.wm = 'nekobotytBotz'
+global.gcname = '𝐆𝐚𝐧𝐳-𝐌𝐃 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
+global.author = '「 𝑪𝒓𝒆𝒂𝒕 𝑩𝒚 𝑮𝒂𝒏𝒛𝑫𝒆𝒗 」'
+global.namebot = '​ 「 𝐆𝐚𝐧𝐳-𝐁𝐨𝐭𝐳 」'
+global.wm = '𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝗚𝗮𝗻𝘇𝗗𝗲𝘃 𝘽𝙤𝙩𝙯 𝙒𝙖'
 global.media = 'https://telegra.ph/file/c080917609684bf229cd3.jpg'
 global.watermark = wm
 global.status = 'public'
 global.danied = '          ⚠️ 𝐀𝐜𝐜𝐞𝐬 𝐃𝐚𝐧𝐢𝐞𝐝 ⚠️  '
 global.wame = 'https://api.whatsapp.com/send?phone=6287778405247&text=saya%20mau%20Sewa%20bot mu%20mas'
 global.alllink = `${pickRandom([`https://api.whatsapp.com/send?phone=6287778405247&text=saya%20mau%20Sewa%20bot mu%20mas`, `https://www.instagram.com/not_rei1`, `https://youtu.be/xiEfum5-KNw`])}`
-global.wm2 = '「 nekobotyt-𝐌𝐃 」 '
+global.wm2 = '「 𝐆𝐚𝐧𝐳-𝐌𝐃 」 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `nekobotyt-𝐁𝐨𝐭𝐳`
-global.stickpack = 'nekobotyt-𝐁𝐨𝐭𝐳'
-global.stickauth = `© nekobotyt𝐁𝐨𝐭𝐳`
+global.titlebot = `𝐆𝐚𝐧𝐳-𝐁𝐨𝐭𝐳`
+global.stickpack = '𝐆𝐚𝐧𝐳-𝐁𝐨𝐭𝐳'
+global.stickauth = `© 𝗚𝗮𝗻𝘇-𝗕𝗢𝗧`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Owner nekobotyt Botz'
-global.nameown2 = 'Dev nekobotyt Botz'
+global.nameown1= '𝗚𝗮𝗻𝘇𝗗𝗲𝘃'
+global.nameown2 = '𝐆𝐚𝐧𝐳-𝐎𝐰𝐧'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'Bentar'
+global.Linkgc = 'tunggu bentar'
 global.lynk = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/not_rei1'
-global.sgh = 'https://github.com/Reiibotz' //github
-global.tautanwa = 'https://api.whatsapp.com/send?phone=6287778405247&text=saya%20mau%20Sewa%20bot mu%20mas'
-global.sgc = 'https://youtu.be/xiEfum5-KNw' //group whatsapp
-global.syt = 'https://youtu.be/xiEfum5-KNw' //youtube
+global.sig = 'https://instagram.com/gal3_jr'
+global.sgh = 'https://github.com/GabutV2' //github
+global.tautanwa = 'https://api.whatsapp.com/send?phone=6285664221805&text=saya%20mau%20Sewa%20bot mu%20mas'
+global.sgc = 'https://chat.whatsapp.com/LTdSq57XlDvKmLWYJmFrnn' //group whatsapp
+global.syt = '-' //youtube
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '082113800141'
-global.povo = '082113800141'
-global.pgopay = '082113800141'
-global.plinkaja = '-' //link aja
-global.ppulsa = '-'
+global.pdana = '085664221805'
+global.povo = '085664221805'
+global.pgopay = '085664221805'
+global.plinkaja = '085664221805' //link aja
+global.ppulsa = '085664221805' //Indosat
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
