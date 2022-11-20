@@ -4,6 +4,9 @@
     "description": "WhatsApp BOT",
     "main": "index.js",
     "type": "module",
+    "engines": {
+    	"node": "18.7.0"
+    },
     "directories": {
         "lib": "lib",
         "src": "src",
