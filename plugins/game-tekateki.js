@@ -20,9 +20,8 @@ let handler = async (m, { conn, command, usedPrefix }) => {
     let caption = `*${command.toUpperCase()}*
 ${json.soal}
 
-Timeout *${(timeout / 1000).toFixed(2)} detik*
-Ketik ${usedPrefix}htek untuk bantuan
-Bonus: ${poin} Money
+⭔ Timeout *${(timeout / 1000).toFixed(2)} detik*
+⭔ Bonus: ${poin} Money
     `.trim()
     conn.tekateki[id] = [
         await conn.sendButton(m.chat, caption, author, `https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=inferno-logo&doScale=false&scaleWidth=400&scaleHeight=400&fontsize=50&fillTextType=0&backgroundColor=black&text=${command}`, buttons, m),
