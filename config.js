@@ -317,9 +317,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/not_rei1"
+global.urlnya = "https://www.instagram.com/gal3h_jr"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '081384305905'
+global.phn = '085664221805'
 
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
