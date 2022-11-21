@@ -8,6 +8,13 @@ let handler = async (m, { conn, command, usedPrefix }) => {
         conn.sendButton(m.chat, 'Masih ada soal belum terjawab di chat ini', author, null, buttons, conn.tekateki[id][0])
         throw false
     }
+    if (global.db.data.users[m.sender].limit < 1 && global.db.data.users[m.sender].money > 50000 && !isPrems) {
+        throw `Beli limit dulu lah, duid lu banyak kan 😏`
+    } else if (global.db.data.users[m.sender].limit > 0 && !isPrems) {
+        global.db.data.users[m.sender].limit -= 1
+    } else {
+
+    }
     let res = await fetch('https://anabotofc.herokuapp.com/api/kuis/tekateki?apikey=AnaBot')
     let json = await res.json()
     let caption = `*${command.toUpperCase()}*
