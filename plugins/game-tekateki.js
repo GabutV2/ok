@@ -40,8 +40,3 @@ handler.tags = ['game']
 handler.command = /^tekateki/i
 
 export default handler
-
-const buttons = [
-    ['Hint', '/htek'],
-    ['Nyerah', 'menyerahtek']
-]
