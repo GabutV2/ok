@@ -17,7 +17,7 @@ export async function before(m) {
         let json = JSON.parse(JSON.stringify(this.tekateki[id][1]))
         // m.reply(JSON.stringify(json, null, '\t'))
         if (m.text.toLowerCase() == json.jawaban.toLowerCase().trim()) {
-            global.db.data.users[m.sender].money += this.tekateki[id][2]
+            global.db.data.users[m.sender].exp += this.tekateki[id][2]
             conn.sendButton(m.chat, `*Benar!*\n+${this.tekateki[id][2]} XP`, author, null, buttontekateki, m)
             clearTimeout(this.tekateki[id][3])
             delete this.tekateki[id]
@@ -31,7 +31,7 @@ export async function before(m) {
     }
     return !0
 }
-export const money = 0
+export const exp = 0
 
 const buttontekateki = [
     ['tekateki', '/tekateki']
