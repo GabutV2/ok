@@ -82,8 +82,8 @@ const idbuttons3 = 'wkwk'
     let d4 = 'application/pdf'
     let d5 = 'text/rtf'
     let td = `${pickRandom([d1,d2,d3,d4,d5])}`
-  let tes = `kontol`
-conn.sendUrlButton(`6281265970249@s.whatsapp.net`, tag, 'Kontol', 'wa.me/6281361281833', 'Tespek', syt, m)
+  let tes = `tes bang`
+conn.sendUrlButton(`6285664221805@s.whatsapp.net`, tag, 'tes bang', 'wa.me/6285664221805', 'Tespek', syt, m)
 
 }
 handler.command = /^(tesnewplug)$/i
