@@ -26,8 +26,15 @@ export async function before(m) {
         } else if (similarity(m.text.toLowerCase(), json.jawaban.toLowerCase().trim()) >= threshold)
             m.reply(`*Dikit Lagi!*`)
         else
-            m.reply(`*Salah!*`)
+            conn.sendButton(m.chat, `*Salah!*`, author, null, [
+                ['Hint', '/htek'],
+                ['nyerah', 'menyerah']
+            ], m)
     }
     return !0
 }
 export const money = 0
+
+const buttontekateki = [
+    ['tekateki', '/tekateki']
+]
