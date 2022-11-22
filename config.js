@@ -44,7 +44,7 @@ global.owner = [
 ['6285664221805', '𝑮𝒂𝒏𝒛𝑫𝒆𝒗', true]
 ]
 global.mods = []
-global.prems = ['6285664221805']
+global.prems = []
 global.nomorbot = '6282112882744'
 global.nomorown = '6285664221805'
 global.nomorown1 = '6285664221805'
@@ -120,8 +120,8 @@ global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙
 global.pmenus = '⛥'
 global.htki = '⟣─═══⟪' // Hiasan Titile (KIRI)
 global.htka = '⟫═══─⟢' // Hiasan Title  (KANAN)
-global.lopr = 'Ⓟ' //LOGO PREMIUM ON MENU.JS
-global.lolm = 'Ⓛ' //LOGO LIMIT/FREE ON MENU.JS
+global.lopr = 'Ⓟ' //LOGO PREMIUM ONLY
+global.lolm = 'Ⓛ' //LOGO LIMIT/FREE USER
 global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
@@ -135,8 +135,8 @@ global.eror = 'Mohon Maaf Server Kami Sedang Error!'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND GEME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.benar = '𝙶𝚘𝚘𝚍 𝙹𝚘𝚋𝚋! ◕◡◕'
-global.salah = '𝙽𝚘𝚝 𝙱𝚊𝚍! ◕◠◕'
+global.benar = '𝙶𝚘𝚘𝚍 𝙹𝚘𝚋𝚋!'
+global.salah = '𝙽𝚘𝚝 𝙱𝚊𝚍!'
 global.dikit = "𝙳𝚒𝚔𝚒𝚝 𝙻𝚊𝚐𝚒,𝚂𝚎𝚖𝚊𝚗𝚐𝚊𝚝!!"
 
 
