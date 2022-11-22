@@ -1,8 +1,7 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let cap = `*MEMBER BARU WAJIB INTRO*
 
-Nama:
-Umur:
+*Selamat datang di Grup ini, jangan lupa ketik .daftar untuk Mendaftar*
 
 *Semoga Betah Di Grup Ini😊*
 `
