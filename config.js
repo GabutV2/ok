@@ -44,7 +44,7 @@ global.owner = [
 ['6285664221805', '𝑮𝒂𝒏𝒛𝑫𝒆𝒗', true]
 ]
 global.mods = []
-global.prems = []
+global.prems = ['6285664221805']
 global.nomorbot = '6282112882744'
 global.nomorown = '6285664221805'
 global.nomorown1 = '6285664221805'
@@ -59,12 +59,12 @@ global.gcname = '𝐆𝐚𝐧𝐳-𝐌𝐃 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
 global.author = '「 𝑪𝒓𝒆𝒂𝒕 𝑩𝒚 𝑮𝒂𝒏𝒛𝑫𝒆𝒗 」'
 global.namebot = '​ 「 𝐆𝐚𝐧𝐳-𝐁𝐨𝐭𝐳 」'
 global.wm = '𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝗚𝗮𝗻𝘇𝗗𝗲𝘃 𝘽𝙤𝙩𝙯 𝙒𝙖'
-global.media = 'https://telegra.ph/file/c080917609684bf229cd3.jpg'
+global.media = '-'
 global.watermark = wm
 global.status = 'public'
 global.danied = '          ⚠️ 𝐀𝐜𝐜𝐞𝐬 𝐃𝐚𝐧𝐢𝐞𝐝 ⚠️  '
-global.wame = 'https://api.whatsapp.com/send?phone=6287778405247&text=saya%20mau%20Sewa%20bot mu%20mas'
-global.alllink = `${pickRandom([`https://api.whatsapp.com/send?phone=6287778405247&text=saya%20mau%20Sewa%20bot mu%20mas`, `https://www.instagram.com/not_rei1`, `https://youtu.be/xiEfum5-KNw`])}`
+global.wame = 'https://api.whatsapp.com/send?phone=6285664221805&text=saya%20mau%20Sewa%20bot mu%20mas'
+global.alllink = `${pickRandom([`https://api.whatsapp.com/send?phone=6285664221805&text=saya%20mau%20Sewa%20bot mu%20mas`, `https://www.instagram.com/not_rei1`, `https://youtu.be/xiEfum5-KNw`])}`
 global.wm2 = '「 𝐆𝐚𝐧𝐳-𝐌𝐃 」 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
@@ -270,9 +270,9 @@ global.drtf = 'text/rtf'
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 global.thumb = 'https://i.ibb.co/WzLBSqb/jnck.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/c080917609684bf229cd3.jpg'
+global.imagebot = '-'
 global.giflogo = 'https://telegra.ph/file/4d4f611baff7d92ec5e81.mp4'
-global.thumbs = ['https://telegra.ph/file/c080917609684bf229cd3.jpg']
+global.thumbs = ['-']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -353,7 +353,7 @@ function ucapan() {
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://telegra.ph/file/c080917609684bf229cd3.jpg'
+global.thumbdoc = '-'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
