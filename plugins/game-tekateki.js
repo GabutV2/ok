@@ -8,20 +8,14 @@ let handler = async (m, { conn, command, usedPrefix }) => {
         conn.sendButton(m.chat, 'Masih ada soal belum terjawab di chat ini', author, null, buttons, conn.tekateki[id][0])
         throw false
     }
-    if (global.db.data.users[m.sender].limit < 1 && global.db.data.users[m.sender].money > 50000 && !isPrems) {
-        throw `Beli limit dulu lah, duid lu banyak kan 😏`
-    } else if (global.db.data.users[m.sender].limit > 0 && !isPrems) {
-        global.db.data.users[m.sender].limit -= 1
-    } else {
-
-    }
     let res = await fetch('https://anabotofc.herokuapp.com/api/kuis/tekateki?apikey=AnaBot')
     let json = await res.json()
     let caption = `*${command.toUpperCase()}*
 ${json.soal}
 
-⭔ Timeout *${(timeout / 1000).toFixed(2)} detik*
-⭔ Bonus: ${poin} Exp
+Timeout *${(timeout / 1000).toFixed(2)} detik*
+Ketik ${usedPrefix}htek untuk bantuan
+Bonus: ${poin} XP
     `.trim()
     conn.tekateki[id] = [
         await conn.sendButton(m.chat, caption, author, `https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=inferno-logo&doScale=false&scaleWidth=400&scaleHeight=400&fontsize=50&fillTextType=0&backgroundColor=black&text=${command}`, buttons, m),
@@ -39,3 +33,8 @@ handler.tags = ['game']
 handler.command = /^tekateki/i
 
 export default handler
+
+const buttons = [
+    ['Hint', '/htek'],
+    ['Nyerah', 'menyerahtek']
+]
