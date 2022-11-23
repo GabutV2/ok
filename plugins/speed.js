@@ -101,13 +101,13 @@ await conn.send2ButtonDoc(m.chat, runtt, botdate, 'Owner', '.owner', 'Menu', '.M
     mediaUrl: syt,
     renderLargerThumbnail: true,
     showAdAttribution: false,
-    sourceId: '© nekobotyt-𝐁𝐨𝐭𝐳 ',
+    sourceId: '© 𝐆𝐚𝐧𝐳-𝐁𝐨𝐭𝐳 ',
     sourceType: 'PDF',
     previewType: 'PDF',
     sourceUrl: wame,
     thumbnail: await(await fetch(wan)).buffer(),
     thumbnailUrl: syt,
-    title: 'nekobotyt-𝐁𝐨𝐭𝐳',
+    title: '𝐆𝐚𝐧𝐳-𝐁𝐨𝐭𝐳',
 				}
 			}
 })
