@@ -236,7 +236,7 @@ title: `${htki} 𝐈𝐍𝐅𝐎 ${htka}`,
 rows: [
 {title: `${emot} OWNER BOT`, rowId: ".owner", },
 {title: `${emot} SCRIPT`, rowId: ".sc", },
-{title: `${emot} SEWA nekobotyt-𝐁𝐨𝐭𝐳`, rowId: ".sewa", },
+{title: `${emot} SEWA 𝐆𝐚𝐧𝐳-𝐁𝐨𝐭𝐳`, rowId: ".sewa", },
 {title: `${emot} BUY PREMIUM`, rowId: ".premium", },
 {title: `${emot} DONASI`, rowId: ".donasi", },
 {title: `${emot} S & K`, rowId: ".rules", },
