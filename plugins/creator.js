@@ -5,7 +5,7 @@ let pp = await conn.profilePictureUrl(who).catch(_ => hwaifu.getRandom())
 let name = await conn.getName(who)
 
 if (command == 'owner') {
-  let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;Owner PewDiePie-Botz;;;\nFN:Owner PewDiePie-Botz\nORG:Owner PewDiePie-Botz\nTITLE:\nitem1.TEL;waid=6281384305905:+62 813-8430-5905\nitem1.X-ABLabel::Owner PewDiePie-Botz\nX-WA-BIZ-DESCRIPTION:Ada Yang Bisa Saya bantu?\nX-WA-BIZ-NAME:Owner PewDiePie-Botz Official\nEND:VCARD`
+  let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;Owner Ganz-Botz;;;\nFN:Owner Ganz-Botz\nORG:Owner Ganz-Botz\nTITLE:\nitem1.TEL;waid=6285664221805:+62 856-6422-1805\nitem1.X-ABLabel::Owner Ganz-Botz\nX-WA-BIZ-DESCRIPTION:Ada Yang Bisa Saya bantu?\nX-WA-BIZ-NAME:Owner Ganz-Botz Official\nEND:VCARD`
 await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard }] }},)
   }
   }
