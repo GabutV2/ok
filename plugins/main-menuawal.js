@@ -58,7 +58,7 @@ let fpayment = {
       "requestFrom": "0@s.whatsapp.net",
       "noteMessage": {
         "extendedTextMessage": {
-          "text": "Jaya-Botz"
+          "text": "𝐆𝐚𝐧𝐳-𝐁𝐨𝐭𝐳"
         }
       },
       "expiryTimestamp": fsizedoc,
@@ -95,13 +95,13 @@ await conn.send2ButtonDoc(m.chat, cap, botdate, 'ALL MENU', '.? all', 'LIST MENU
     mediaUrl: hwaifu.getRandom(), 
     renderLargerThumbnail: true,
     showAdAttribution: false,
-    sourceId: '© nekobotyt-𝐁𝐨𝐭𝐳 ',
+    sourceId: '© 𝐆𝐚𝐧𝐳-𝐁𝐨𝐭𝐳 ',
     sourceType: 'PDF',
     previewType: 'PDF',
     sourceUrl: sgc,
     thumbnail: await(await fetch(wann)).buffer(),
     thumbnailUrl: sgc,
-    title: 'nekobotyt-𝐁𝐨𝐭𝐳',
+    title: '𝐆𝐚𝐧𝐳-𝐁𝐨𝐭𝐳',
 				}
 			}
 })
