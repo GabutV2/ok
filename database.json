@@ -1,3793 +1,425 @@
 {
-  "users": {
-    "6285664221805@s.whatsapp.net": {
-      "exp": 12000000000000000000000,
-      "limit": 10000000000000000000000,
-      "lastclaim": 10000000000000000000000,
-      "registered": true,
-      "name": "Owner Botz 🔥",
-      "pasangan": "",
-      "age": -1,
-      "regTime": -1,
-      "afk": -1,
-      "afkReason": "",
-      "banned": false,
-      "warn": 0,
-      "level": 0,
-      "role": "Beginner",
-      "autolevelup": true,
-      "money": 10000000000000000000000,
-      "bank": 10000000000000000000000,
-      "atm": 100000000000000000000000,
-      "fullatm": 0,
-      "health": 11000000000000000000000000,
-      "potion": 10,
-      "trash": 0,
-      "wood": 0,
-      "rock": 0,
-      "string": 0,
-      "emerald": 0,
-      "diamond": 100000000000000000000000,
-      "gold": 100000000000000000000000,
-      "iron": 0,
-      "upgrader": 0,
-      "common": 0,
-      "uncommon": 0,
-      "mythic": 0,
-      "legendary": 0,
-      "superior": 0,
-      "pet": 0,
-      "horse": 0,
-      "horseexp": 0,
-      "cat": 0,
-      "catngexp": 0,
-      "fox": 0,
-      "foxexp": 0,
-      "dog": 0,
-      "dogexp": 0,
-      "horselastfeed": 0,
-      "catlastfeed": 0,
-      "foxlastfeed": 0,
-      "doglastfeed": 0,
-      "armor": 0,
-      "armordurability": 0,
-      "sword": 0,
-      "sworddurability": 0,
-      "pickaxe": 0,
-      "pickaxedurability": 0,
-      "fishingrod": 0,
-      "fishingroddurability": 0,
-      "lastadventure": 0,
-      "lastfishing": 0,
-      "lastdungeon": 0,
-      "lastduel": 0,
-      "lastmining": 0,
-      "lasthunt": 0,
-      "lastweekly": 0,
-      "lastmonthly": 0,
-      "lastbunga": 0,
-      "note": 0,
-      "premium": true,
-      "premiumTime": 10000000000000000000000000000,
-      "limitjoin": 0,
-      "petFood": 0,
-      "catexp": 0,
-      "robo": 0,
-      "roboxp": 0
-    },
-    "120363044585298853@g.us": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": true,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": false,
-      "viewonce": false,
-      "antiToxic": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false,
-      "antiBadword": true
-    },
-    "628565337357@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": false,
-      "viewonce": false,
-      "antiToxic": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6283896787688@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": false,
-      "viewonce": false,
-      "antiToxic": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6289697202437@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": false,
-      "viewonce": false,
-      "antiToxic": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363022472140181@g.us": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": false,
-      "viewonce": false,
-      "antiToxic": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6281995055248@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": false,
-      "viewonce": false,
-      "antiToxic": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285754258507@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": false,
-      "viewonce": false,
-      "antiToxic": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false,
-      "antiBadword": false
-    },
-    "6283181341902@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": false,
-      "viewonce": false,
-      "antiToxic": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false,
-      "antiBadword": false
-    },
-    "62881036459165@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": false,
-      "viewonce": false,
-      "antiToxic": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "13152046426@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": false,
-      "viewonce": false,
-      "antiToxic": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false,
-      "antiBadword": false
-    },
-    "60195555511@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": false,
-      "viewonce": false,
-      "antiToxic": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6283128217847@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": false,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285811738195@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6289509831127@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6281233452403@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285712080788@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "48459078134@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285601298044@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6289531912853@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "967779148272@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6283149881762@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6289515716659@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "628887861980@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285255312224@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285754247988@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285750320192@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363025720810245@g.us": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363025516749386@g.us": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6283895239064@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6281368098681@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285212649276@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285727283153@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285371753939@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6283873572923@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6281325292096@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "628113321919@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363026867502026@g.us": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363027319781341@g.us": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285600675061@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363027277234577@g.us": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 1665079820446,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6281265970249@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": true,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false,
-      "antiLinkGc": true,
-      "antiLinkYt": false,
-      "antiLinkTik": false,
-      "antiLinkIg": false,
-      "antiLinkTel": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiSpam": true,
-      "antiVirus": true,
-      "antiSticker": false,
-      "virtex": false,
-      "antiToxic": true,
-      "self": "",
-      "nyimak": "",
-      "autoread": "",
-      "restrict": "",
-      "pconly": "",
-      "gconly": "",
-      "swonly": "",
-      "autoresponder": false,
-      "antiVirtex": true,
-      "anticall": true,
-      "autoJoin": false
-    },
-    "120363047315983485@g.us": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": true,
-      "premnsfw": false,
-      "antiLinkGc": true,
-      "antiLinkYt": false,
-      "antiLinkTik": false,
-      "antiLinkIg": false,
-      "antiLinkTel": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiSpam": true,
-      "antiVirus": true,
-      "antiSticker": false,
-      "virtex": false,
-      "antiToxic": true,
-      "self": false,
-      "nyimak": false,
-      "autoread": true,
-      "restrict": true,
-      "pconly": false,
-      "gconly": false,
-      "swonly": false,
-      "autoresponder": false,
-      "antiVirtex": true,
-      "anticall": true,
-      "autoJoin": false
-    },
-    "6283852556850@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6283870480221@s.whatsapp.net": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false,
-      "antiLinkGc": true,
-      "antiLinkYt": false,
-      "antiLinkTik": false,
-      "antiLinkIg": false,
-      "antiLinkTel": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiSpam": true,
-      "antiVirus": true,
-      "antiSticker": false,
-      "virtex": false,
-      "antiToxic": true,
-      "self": "",
-      "nyimak": "",
-      "autoread": "",
-      "restrict": "",
-      "pconly": "",
-      "gconly": "",
-      "swonly": "",
-      "autoresponder": false,
-      "antiVirtex": true,
-      "anticall": true,
-      "autoJoin": false
-    },
-    "120363026112699201@g.us": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "antiBadword": true,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false,
-      "antiLinkGc": true,
-      "antiLinkYt": false,
-      "antiLinkTik": false,
-      "antiLinkIg": false,
-      "antiLinkTel": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiSpam": true,
-      "antiVirus": true,
-      "antiSticker": false,
-      "virtex": false,
-      "antiToxic": true,
-      "self": "",
-      "nyimak": "",
-      "autoread": "",
-      "restrict": "",
-      "pconly": "",
-      "gconly": "",
-      "swonly": "",
-      "autoresponder": false,
-      "antiVirtex": true,
-      "anticall": true,
-      "autoJoin": false
-    },
-    "120363042950072518@g.us": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": true,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false,
-      "self": false,
-      "nyimak": false,
-      "autoread": true,
-      "restrict": true,
-      "pconly": false,
-      "gconly": false,
-      "swonly": false,
-      "autoresponder": false,
-      "anticall": true,
-      "autoJoin": false
-    },
-    "6281326494085@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "antiLink": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false,
-      "anticall": true,
-      "autoJoin": false
-    },
-    "62895323535734@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363039011004156@g.us": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false,
-      "anticall": true,
-      "autoJoin": false
-    },
-    "62838653241237@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6282140059454@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6289514653159@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false,
-      "self": "",
-      "nyimak": "",
-      "autoread": "",
-      "restrict": "",
-      "pconly": "",
-      "gconly": "",
-      "swonly": "",
-      "autoresponder": false
-    },
-    "6285715382503@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "autoresponder": false,
-      "expired": 0,
-      "self": false,
-      "restrict": true,
-      "autoread": true,
-      "nyimak": false,
-      "pconly": true,
-      "gconly": true,
-      "swonly": true,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6281386943282@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "autoresponder": false,
-      "expired": 0,
-      "self": false,
-      "restrict": true,
-      "autoread": true,
-      "nyimak": false,
-      "pconly": false,
-      "gconly": false,
-      "swonly": false,
-      "nsfw": false,
-      "premnsfw": false,
-      "simi": false,
-      "anticall": true,
-      "autoJoin": false
-    },
-    "6283110517860@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "autoresponder": false,
-      "expired": 0,
-      "self": false,
-      "restrict": true,
-      "autoread": true,
-      "nyimak": false,
-      "pconly": false,
-      "gconly": false,
-      "swonly": false,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6282123020035@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "autoresponder": false,
-      "expired": 0,
-      "self": false,
-      "restrict": true,
-      "autoread": true,
-      "nyimak": false,
-      "pconly": false,
-      "gconly": false,
-      "swonly": false,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6283838186170@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "autoresponder": false,
-      "expired": 0,
-      "self": false,
-      "restrict": true,
-      "autoread": true,
-      "nyimak": false,
-      "pconly": false,
-      "gconly": false,
-      "swonly": false,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6282124690625@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363026349027645@g.us": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false,
-      "antiLink": true,
-      "antiBadword": false
-    },
-    "120363044140770573@g.us": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false,
-      "anticall": true,
-      "autoJoin": false
-    },
-    "62881010065641@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "628126882993@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6281262773710@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285788265328@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6281219256467@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": true,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6289688069444@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": true,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363042876427092@g.us": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": true,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6283892679311@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": true,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6281298309340@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": true,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6282277859709@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": true,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363043373863494@g.us": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": true,
-      "virtex": false,
-      "antiToxic": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363044424935634@g.us": {
-      "isBanned": false,
-      "antiLinkGc": true,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": true,
-      "virtex": false,
-      "antiToxic": false,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": true,
-      "premnsfw": false,
-      "anticall": true,
-      "autoJoin": false
-    },
-    "6281270454870@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363029443214063@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285279292140@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6287893764167@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6289636219593@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285358805324@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363026795147458@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363026866060964@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6281361977465@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6281241056195@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285892754829@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363028035124923@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363045620087398@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363047232291101@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363045256946140@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363042521404352@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363044767423997@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363028952178580@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363044839214405@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363042830392962@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363025940277317@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363026013808919@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "120363044638665316@g.us": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6285172446692@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6281293818831@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "628998059724@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6282112528815@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    },
-    "6287778405247@s.whatsapp.net": {
-      "isBanned": false,
-      "antiLinkGc": false,
-      "antiLinkTik": false,
-      "antiLinkTel": false,
-      "antiLinkIg": false,
-      "antiLinkFb": false,
-      "antiLinkHttp": false,
-      "antiLinkYt": false,
-      "antiSpam": true,
-      "antiStiker": false,
-      "antiVirtex": false,
-      "virtex": false,
-      "autoJoin": false,
-      "antiToxic": true,
-      "anticall": true,
-      "welcome": true,
-      "detect": false,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "delete": true,
-      "viewonce": false,
-      "simi": false,
-      "expired": 0,
-      "nsfw": false,
-      "premnsfw": false
-    }
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "yLSiZlw5qIqJylhf+lWFTTk0cNuD4HZ7jF/BZDyqNlo="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "P0axiz309bxQXcUQavidZgp6ElAFZKiOx4Cfsuavaww="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "YLasrE8Lii6UZ9ydFbwVAdx5zIKPoz2Mf6zmocOoFVw="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "7KlREX0AgnOYl8QtWjuQB1Mck8SsOw1S8kDgUVEoaUE="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "KJ7NLNfwF1usDpAt99PbgD5nXQsycKrnq+60WY/qIEY="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "yOHksj5YWWgcxwbko+IHVnaEtJh7MArnKCFHysBy5Gc="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "K6eK63bZ3mRDypScsns9Wpw5NXX+i8KuPLgHiSXYkygLvjVh3SzuCCFj1/GuNkVcE7tMz2mqnmWNZxaiEfhUjw=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 80,
+    "advSecretKey": "GaY/4Fx0z8bLUbsJ2P3AeO6t29HCw0NOdgdyLtW9xrA=",
+    "nextPreKeyId": 31,
+    "firstUnuploadedPreKeyId": 31,
+    "serverHasPreKeys": true,
+    "account": {
+      "details": "CJ6rttECEKqJ8psGGAE=",
+      "accountSignatureKey": "vnvwiHPNs5heAlfZpeKYVfsWvDrWEa6dnThUC3cmLVw=",
+      "accountSignature": "EaZ09yEG6r7sv9cmssK2YBfLU/cvIMhGU+a9rh0rrYlFSxkOCAxA0ZJ1Liwy3LG+OPyxABB3jG3QRFJ9M0SRAw==",
+      "deviceSignature": "VOJgTaxQ+lm/TkxiCUF0wClYmfVoxvCXPIm5QpXDgeYwRRcvzC2sMDA4LDZ4s+upJiGVdT+JGjjxJm68DWrXjw=="
+    },
+    "me": {
+      "id": "6281338988570:1@s.whatsapp.net",
+      "verifiedName": "",
+      "name": "~rico 9F"
+    },
+    "signalIdentities": [
+      {
+        "identifier": {
+          "name": "6281338988570:1@s.whatsapp.net",
+          "deviceId": 0
+        },
+        "identifierKey": {
+          "type": "Buffer",
+          "data": "Bb578IhzzbOYXgJX2aXimFX7Frw61hGunZ04VAt3Ji1c"
+        }
+      }
+    ],
+    "lastAccountSyncTimestamp": 1669104818,
+    "myAppStateKeyId": "AAAAAHUB"
   },
-  "stats": {
-    "main-menuawal.js": {
-      "total": 238,
-      "success": 178,
-      "last": 1668135512308,
-      "lastSuccess": 1668135512308
-    },
-    "exp-daftar.js": {
-      "total": 110,
-      "success": 81,
-      "last": 1667910042241,
-      "lastSuccess": 1667910042241
-    },
-    "_autoreact.js": {
-      "total": 61,
-      "success": 61,
-      "last": 1667050391324,
-      "lastSuccess": 1667050391324
-    },
-    "_autosticker.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1664210893165,
-      "lastSuccess": 1664210893165
-    },
-    "main-menulist.js": {
-      "total": 208,
-      "success": 193,
-      "last": 1668135612457,
-      "lastSuccess": 1668135612457
-    },
-    "group-link.js": {
-      "total": 11,
-      "success": 7,
-      "last": 1667539953013,
-      "lastSuccess": 1667539953013
-    },
-    "bug.js": {
-      "total": 43,
-      "success": 33,
-      "last": 1667918015225,
-      "lastSuccess": 1667918015225
-    },
-    "g-linkgroup.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1663717817697,
-      "lastSuccess": 1663717817697
-    },
-    "owner-chatpesan.js": {
-      "total": 93,
-      "success": 82,
-      "last": 1667049234730,
-      "lastSuccess": 1667049234730
-    },
-    "info-creator.js": {
-      "total": 27,
-      "success": 18,
-      "last": 1663849991579,
-      "lastSuccess": 1663849991579
-    },
-    "owner-addowner.js": {
-      "total": 5,
-      "success": 4,
-      "last": 1667403224537,
-      "lastSuccess": 1667403224537
-    },
-    "enable.js": {
-      "total": 117,
-      "success": 97,
-      "last": 1667967890853,
-      "lastSuccess": 1667967890853
-    },
-    "auto+level.js": {
-      "total": 179,
-      "success": 179,
-      "last": 1664194971580,
-      "lastSuccess": 1664194971580
-    },
-    "owner-addprem.js": {
-      "total": 20,
-      "success": 13,
-      "last": 1667403756812,
-      "lastSuccess": 1667403240984
-    },
-    "owner-unbanuser.js": {
-      "total": 4,
-      "success": 1,
-      "last": 1663859738532,
-      "lastSuccess": 1663859738532
-    },
-    "levelup.js": {
-      "total": 76,
-      "success": 26,
-      "last": 1664194989798,
-      "lastSuccess": 1664194989798
-    },
-    "exp-ceksn.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1667830763802,
-      "lastSuccess": 1667830763802
-    },
-    "exp-unreg.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1667830829198,
-      "lastSuccess": 1667830829198
-    },
-    "owner-resetuser.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1663940118213,
-      "lastSuccess": 1663940118213
-    },
-    "owner-simulate.js": {
-      "total": 56,
-      "success": 45,
-      "last": 1667901354781,
-      "lastSuccess": 1667901354781
-    },
-    "ownrr.js": {
-      "total": 15,
-      "success": 12,
-      "last": 1663943458452,
-      "lastSuccess": 1663943458452
-    },
-    "creator.js": {
-      "total": 146,
-      "success": 121,
-      "last": 1667923449533,
-      "lastSuccess": 1667923449533
-    },
-    "jdiibot.js": {
-      "total": 3,
-      "success": 0,
-      "last": 1663944376104,
-      "lastSuccess": 0
-    },
-    "addmsg.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1663949163139,
-      "lastSuccess": 0
-    },
-    "botstats.js": {
-      "total": 15,
-      "success": 13,
-      "last": 1664078531988,
-      "lastSuccess": 1664078531988
-    },
-    "jjjjj.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1663999290265,
-      "lastSuccess": 1663999290265
-    },
-    "downloader-tiktok.js": {
-      "total": 27,
-      "success": 23,
-      "last": 1667844207371,
-      "lastSuccess": 1667844207371
-    },
-    "geme-siapakahaku.js": {
-      "total": 12,
-      "success": 7,
-      "last": 1664113484954,
-      "lastSuccess": 1664113475230
-    },
-    "geme-siapakahaku_hint.js": {
-      "total": 4,
-      "success": 2,
-      "last": 1664113479445,
-      "lastSuccess": 1664113479445
-    },
-    "info-statserver.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1664183953215,
-      "lastSuccess": 1664183953215
-    },
-    "afk-afk.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1664116737631,
-      "lastSuccess": 1664116737631
-    },
-    "price.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1664122323559,
-      "lastSuccess": 1664122323559
-    },
-    "owner-order.js": {
-      "total": 4,
-      "success": 2,
-      "last": 1664123448027,
-      "lastSuccess": 1664123448027
-    },
-    "main-store.js": {
-      "total": 53,
-      "success": 50,
-      "last": 1664210696896,
-      "lastSuccess": 1664210696896
-    },
-    "info-paystore.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1667908764750,
-      "lastSuccess": 1667908764750
-    },
-    "tool-tourl.js": {
-      "total": 16,
-      "success": 13,
-      "last": 1667907532459,
-      "lastSuccess": 1667907532459
-    },
-    "sticker-sticker.js": {
-      "total": 22,
-      "success": 20,
-      "last": 1668135631308,
-      "lastSuccess": 1668135631308
-    },
-    "rpg-shop.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1664187420054,
-      "lastSuccess": 1664187420054
-    },
-    "all-soundmenu.js": {
-      "total": 11,
-      "success": 9,
-      "last": 1667891450623,
-      "lastSuccess": 1667891450623
-    },
-    "sound-mangkane2.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1664189393301,
-      "lastSuccess": 1664189393301
-    },
-    "downloader-gitclone.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1664191093143,
-      "lastSuccess": 1664191093143
-    },
-    "speed.js": {
-      "total": 16,
-      "success": 15,
-      "last": 1667545379070,
-      "lastSuccess": 1667545379070
-    },
-    "nulis-magernulis.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1664191906114,
-      "lastSuccess": 1664191906114
-    },
-    "maker-textpro.js": {
-      "total": 10,
-      "success": 7,
-      "last": 1664193462678,
-      "lastSuccess": 1664193462678
-    },
-    "nulis-nulis.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1664191967443,
-      "lastSuccess": 1664191967443
-    },
-    "info-rules.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1667910100850,
-      "lastSuccess": 1667910100850
-    },
-    "info-totalfitur.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667060415858,
-      "lastSuccess": 1667060415858
-    },
-    "own-delete.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1664194632460,
-      "lastSuccess": 1664194632460
-    },
-    "fun-jadian.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1664194524241,
-      "lastSuccess": 1664194524241
-    },
-    "rpg-inventory.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1667903689147,
-      "lastSuccess": 1667903689147
-    },
-    "info-tqto.js": {
-      "total": 9,
-      "success": 7,
-      "last": 1664196087096,
-      "lastSuccess": 1664196087096
-    },
-    "tool-readmore.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1664196121979,
-      "lastSuccess": 1664196121979
-    },
-    "broadcastgroups.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1664196186652,
-      "lastSuccess": 1664196186652
-    },
-    "info-sc.js": {
-      "total": 78,
-      "success": 67,
-      "last": 1667907065246,
-      "lastSuccess": 1667907065246
-    },
-    "__bot22.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1664197745495,
-      "lastSuccess": 1664197745495
-    },
-    "owner-cleartmp.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1664209891737,
-      "lastSuccess": 1664209891737
-    },
-    "sound-mangkane.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1664204717381,
-      "lastSuccess": 1664204717381
-    },
-    "sound-Dj.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1664205247639,
-      "lastSuccess": 1664205247639
-    },
-    "group-tagme.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1667981441925,
-      "lastSuccess": 1667981441925
-    },
-    "owner-join.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1667629056495,
-      "lastSuccess": 1667629056495
-    },
-    "owner-kick.js": {
-      "total": 17,
-      "success": 17,
-      "last": 1667545155958,
-      "lastSuccess": 1667545155958
-    },
-    "group-add.js": {
-      "total": 16,
-      "success": 16,
-      "last": 1667687577451,
-      "lastSuccess": 1667687577451
-    },
-    "group-info.js": {
-      "total": 43,
-      "success": 31,
-      "last": 1667901454360,
-      "lastSuccess": 1667901454360
-    },
-    "donasi.js": {
-      "total": 10,
-      "success": 9,
-      "last": 1667991456367,
-      "lastSuccess": 1667991456367
-    },
-    "intro.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667046998969,
-      "lastSuccess": 1667046998969
-    },
-    "exp-daftr.js": {
-      "total": 33,
-      "success": 30,
-      "last": 1667907141479,
-      "lastSuccess": 1667907141479
-    },
-    "sticker-wm.js": {
-      "total": 5,
-      "success": 3,
-      "last": 1667202615663,
-      "lastSuccess": 1667202615663
-    },
-    "downloader-pinterest.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1667661861022,
-      "lastSuccess": 1667661861022
-    },
-    "invitegc.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1667051114371,
-      "lastSuccess": 1667051114371
-    },
-    "gc-poll.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667051033658,
-      "lastSuccess": 1667051033658
-    },
-    "group-tagall.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1667545042720,
-      "lastSuccess": 1667545042720
-    },
-    "group-settingtime.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667053855968,
-      "lastSuccess": 1667053855968
-    },
-    "_menfess.js": {
-      "total": 27,
-      "success": 20,
-      "last": 1667836099097,
-      "lastSuccess": 1667836099097
-    },
-    "group-stime.js": {
-      "total": 12,
-      "success": 9,
-      "last": 1667186339333,
-      "lastSuccess": 1667186248046
-    },
-    "owner-balas.js": {
-      "total": 5,
-      "success": 4,
-      "last": 1667364143220,
-      "lastSuccess": 1667364108292
-    },
-    "owner-exec.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667980479019,
-      "lastSuccess": 1667980479019
-    },
-    "youtube-ytv.js": {
-      "total": 23,
-      "success": 6,
-      "last": 1667992488259,
-      "lastSuccess": 1667989493164
-    },
-    "group-hidetag.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667064691696,
-      "lastSuccess": 1667064691696
-    },
-    "sticker-meme.js": {
-      "total": 12,
-      "success": 8,
-      "last": 1667660988245,
-      "lastSuccess": 1667621634081
-    },
-    "youtube-play.js": {
-      "total": 28,
-      "success": 27,
-      "last": 1667990214042,
-      "lastSuccess": 1667990214042
-    },
-    "youtube-yta.js": {
-      "total": 15,
-      "success": 3,
-      "last": 1667988298767,
-      "lastSuccess": 1667661404695
-    },
-    "sticker-attp.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1667582433660,
-      "lastSuccess": 1667582433660
-    },
-    "group-online.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1667064243122,
-      "lastSuccess": 0
-    },
-    "group-delete.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667064365686,
-      "lastSuccess": 1667064365686
-    },
-    "instro.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1667185650094,
-      "lastSuccess": 1667185650094
-    },
-    "anonymous_chat.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667066549390,
-      "lastSuccess": 1667066549390
-    },
-    "prem-nsfw.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1667408725558,
-      "lastSuccess": 1667408725558
-    },
-    "nsfw-hentaivid.js": {
-      "total": 3,
-      "success": 0,
-      "last": 1667185272722,
-      "lastSuccess": 0
-    },
-    "pornhub.js": {
-      "total": 6,
-      "success": 5,
-      "last": 1667200098752,
-      "lastSuccess": 1667200098752
-    },
-    "group-stimeop-second.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667187218614,
-      "lastSuccess": 1667187218614
-    },
-    "group-stimecl-second.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667187249775,
-      "lastSuccess": 1667187249775
-    },
-    "downloader-tiktokmp4.js": {
-      "total": 44,
-      "success": 23,
-      "last": 1667967868026,
-      "lastSuccess": 1667846880229
-    },
-    "audio-tomp3.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1667873185326,
-      "lastSuccess": 1667873185326
-    },
-    "group-stimeop-hours.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667188057445,
-      "lastSuccess": 1667188057445
-    },
-    "gctime.js": {
-      "total": 7,
-      "success": 5,
-      "last": 1667189509348,
-      "lastSuccess": 1667189509348
-    },
-    "group-time-info.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1667416196812,
-      "lastSuccess": 1667416196812
-    },
-    "group-stimecl-minute.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667190051361,
-      "lastSuccess": 1667190051361
-    },
-    "_assalamualaikum.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667908386381,
-      "lastSuccess": 1667908386381
-    },
-    "owner-setmode.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667197448006,
-      "lastSuccess": 1667197448006
-    },
-    "owner-self.js": {
-      "total": 31,
-      "success": 31,
-      "last": 1667974586223,
-      "lastSuccess": 1667974586223
-    },
-    "logo-kaneki.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667405188211,
-      "lastSuccess": 1667405188211
-    },
-    "anime-ppcp.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1667201198710,
-      "lastSuccess": 0
-    },
-    "broadcast.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667201866862,
-      "lastSuccess": 1667201866862
-    },
-    "logomaker-kaneki.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667205177917,
-      "lastSuccess": 1667205177917
-    },
-    "logomaker-pubg.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667202856095,
-      "lastSuccess": 1667202856095
-    },
-    "logomaker-pornhub.js": {
-      "total": 8,
-      "success": 7,
-      "last": 1667405413370,
-      "lastSuccess": 1667405413370
-    },
-    "logomaker-age.js": {
-      "total": 3,
-      "success": 0,
-      "last": 1667204659671,
-      "lastSuccess": 0
-    },
-    "downloader-ig.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1667207003640,
-      "lastSuccess": 1667207003640
-    },
-    "nsfw-all.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1667408748011,
-      "lastSuccess": 1667408748011
-    },
-    "nsfw-all2.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667206327313,
-      "lastSuccess": 1667206327313
-    },
-    "nsfw-all3.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667206442573,
-      "lastSuccess": 1667206442573
-    },
-    "downloader-pptiktok.js": {
-      "total": 6,
-      "success": 4,
-      "last": 1667609456641,
-      "lastSuccess": 1667609456641
-    },
-    "info-intro.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667837048692,
-      "lastSuccess": 1667837048692
-    },
-    "group-settings-button.js": {
-      "total": 12,
-      "success": 6,
-      "last": 1667401516659,
-      "lastSuccess": 1667401516659
-    },
-    "group-setppgc.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667380322225,
-      "lastSuccess": 1667380322225
-    },
-    "owner-banchat.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667381022300,
-      "lastSuccess": 1667381022300
-    },
-    "internet-fetch.js": {
-      "total": 5,
-      "success": 4,
-      "last": 1667888740666,
-      "lastSuccess": 1667888740666
-    },
-    "tool-nobg.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667401618223,
-      "lastSuccess": 1667401618223
-    },
-    "downloader-tiktokmp3.js": {
-      "total": 53,
-      "success": 25,
-      "last": 1667967842361,
-      "lastSuccess": 1667967842361
-    },
-    "telpon.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1667402212800,
-      "lastSuccess": 0
-    },
-    "tool-qrcode.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667402294524,
-      "lastSuccess": 1667402294524
-    },
-    "tools-encdec.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1667402450663,
-      "lastSuccess": 1667402450663
-    },
-    "downloader-xnxxsearch.js": {
-      "total": 10,
-      "success": 4,
-      "last": 1667404389045,
-      "lastSuccess": 1667404243698
-    },
-    "downloader-xnxxdl.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1667404336534,
-      "lastSuccess": 1667404336534
-    },
-    "game-susunkata.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1667406563491,
-      "lastSuccess": 1667406563491
-    },
-    "game-susunkata_hint.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667406408442,
-      "lastSuccess": 1667406408442
-    },
-    "game-gombal.js": {
-      "total": 3,
-      "success": 0,
-      "last": 1667406515998,
-      "lastSuccess": 0
-    },
-    "game-susunkata-hint.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667406599655,
-      "lastSuccess": 1667406599655
-    },
-    "game-tebakgambar.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667406800506,
-      "lastSuccess": 1667406800506
-    },
-    "game-tebakgambar_hint.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667406815794,
-      "lastSuccess": 1667406815794
-    },
-    "private-chat.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667407033473,
-      "lastSuccess": 1667407033473
-    },
-    "quotes-gombal.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667407228425,
-      "lastSuccess": 1667407228425
-    },
-    "quotes-truth.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667407242737,
-      "lastSuccess": 1667407242737
-    },
-    "menu.js": {
-      "total": 28,
-      "success": 25,
-      "last": 1667662448347,
-      "lastSuccess": 1667662448347
-    },
-    "menu-2.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1667410904915,
-      "lastSuccess": 1667410904915
-    },
-    "anime-waifu.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1667415094646,
-      "lastSuccess": 1667415094646
-    },
-    "anime-jahy.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667415059246,
-      "lastSuccess": 1667415059246
-    },
-    "nsfw-list.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667415080649,
-      "lastSuccess": 1667415080649
-    },
-    "logomaker-ephoto360.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667416139710,
-      "lastSuccess": 1667416139710
-    },
-    "group-linkgroup.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1667980081634,
-      "lastSuccess": 1667980081634
-    },
-    "rpg-craft.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667545755456,
-      "lastSuccess": 1667545755456
-    },
-    "repeat.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667545888496,
-      "lastSuccess": 1667545888496
-    },
-    "info-report.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1667581664927,
-      "lastSuccess": 1667581664927
-    },
-    "info-request.js": {
-      "total": 18,
-      "success": 14,
-      "last": 1667583279222,
-      "lastSuccess": 1667583279222
-    },
-    "quotes-hacker.js": {
-      "total": 4,
-      "success": 1,
-      "last": 1667584073369,
-      "lastSuccess": 1667583747207
-    },
-    "internet-ssweb.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667609317427,
-      "lastSuccess": 1667609317427
-    },
-    "sticker-attp_gradient.js": {
-      "total": 5,
-      "success": 0,
-      "last": 1667610933869,
-      "lastSuccess": 0
-    },
-    "owner-savekontak.js": {
-      "total": 4,
-      "success": 3,
-      "last": 1667613844891,
-      "lastSuccess": 1667613799548
-    },
-    "tool-timechat.js": {
-      "total": 4,
-      "success": 1,
-      "last": 1667615890845,
-      "lastSuccess": 1667615890845
-    },
-    "upsw.js": {
-      "total": 6,
-      "success": 0,
-      "last": 1667962506283,
-      "lastSuccess": 0
-    },
-    "fun-how.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1667629107470,
-      "lastSuccess": 1667629107470
-    },
-    "owner-banuser.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1667629130279,
-      "lastSuccess": 1667629130279
-    },
-    "sticker-colong.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667660175201,
-      "lastSuccess": 1667660175201
-    },
-    "knp.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1667662758486,
-      "lastSuccess": 1667662758486
-    },
-    "kamunanyak.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1667826695384,
-      "lastSuccess": 1667826695384
-    },
-    "sobakso-intel.js": {
-      "total": 5,
-      "success": 1,
-      "last": 1667665021609,
-      "lastSuccess": 1667664191078
-    },
-    "store-list.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1667666092724,
-      "lastSuccess": 0
-    },
-    "tesnew.js": {
-      "total": 4,
-      "success": 2,
-      "last": 1667687959941,
-      "lastSuccess": 1667687959941
-    },
-    "tess.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667827611068,
-      "lastSuccess": 1667827611068
-    },
-    "internet-darkjokes.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667828728872,
-      "lastSuccess": 1667828728872
-    },
-    "quotes-videogalau.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1667829401075,
-      "lastSuccess": 1667829401075
-    },
-    "downloader-tiktokaudio.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667837820014,
-      "lastSuccess": 1667837820014
-    },
-    "downloader-tiktokbt.js": {
-      "total": 35,
-      "success": 24,
-      "last": 1667967817056,
-      "lastSuccess": 1667967817056
-    },
-    "owner-delete.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667841215202,
-      "lastSuccess": 1667841215202
-    },
-    "thanks.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667842072547,
-      "lastSuccess": 1667842072547
-    },
-    "downloader-tiktokmp4wm.js": {
-      "total": 6,
-      "success": 4,
-      "last": 1667846374215,
-      "lastSuccess": 1667846374215
-    },
-    "downloader-tiktoknowm.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1667869995905,
-      "lastSuccess": 1667869995905
-    },
-    "owner-gp.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667872756330,
-      "lastSuccess": 1667872756330
-    },
-    "tiktok-malesin.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667888680272,
-      "lastSuccess": 1667888680272
-    },
-    "group-setppgcfull.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1667890520832,
-      "lastSuccess": 1667890520832
-    },
-    "info-boost.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667890761623,
-      "lastSuccess": 1667890761623
-    },
-    "tool-inspect.js": {
-      "total": 4,
-      "success": 0,
-      "last": 1667891884968,
-      "lastSuccess": 0
-    },
-    "tool-tts.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1667891990228,
-      "lastSuccess": 1667891990228
-    },
-    "owner_bug.js": {
-      "total": 5,
-      "success": 3,
-      "last": 1667892760304,
-      "lastSuccess": 1667892760304
-    },
-    "owner-sendvirtex.js": {
-      "total": 18,
-      "success": 15,
-      "last": 1667900652687,
-      "lastSuccess": 1667900652687
-    },
-    "game-tekateki.js": {
-      "total": 18,
-      "success": 9,
-      "last": 1667910391008,
-      "lastSuccess": 1667910391008
-    },
-    "owner_warvirtex.js": {
-      "total": 6,
-      "success": 1,
-      "last": 1667924419201,
-      "lastSuccess": 1667924419201
-    },
-    "game-tekateki-hint.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1667910428075,
-      "lastSuccess": 1667910428075
-    },
-    "rpg-daily.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667903638640,
-      "lastSuccess": 1667903638640
-    },
-    "rpg-weekly.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667903647722,
-      "lastSuccess": 1667903647722
-    },
-    "rpg-monthly.js": {
-      "total": 3,
-      "success": 2,
-      "last": 1667903677953,
-      "lastSuccess": 1667903672231
-    },
-    "game-tebakkata.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1667910390589,
-      "lastSuccess": 1667910390589
-    },
-    "sticker-ok.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667908867289,
-      "lastSuccess": 1667908867289
-    },
-    "anime-loli.js": {
-      "total": 3,
-      "success": 0,
-      "last": 1667977914812,
-      "lastSuccess": 0
-    },
-    "anime-random.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667909470236,
-      "lastSuccess": 1667909470236
-    },
-    "game-tebakkata-hint.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667910413054,
-      "lastSuccess": 1667910413054
-    },
-    "virus-audio-v2.js": {
-      "total": 6,
-      "success": 5,
-      "last": 1667922671228,
-      "lastSuccess": 1667922671228
-    },
-    "virus-virusaudiogc-v1.js": {
-      "total": 21,
-      "success": 14,
-      "last": 1667977350450,
-      "lastSuccess": 1667977350450
-    },
-    "game-tebaklagu.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1667924453762,
-      "lastSuccess": 0
-    },
-    "game-tebaklirik.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667924502241,
-      "lastSuccess": 1667924502241
-    },
-    "game-dadu.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667962305276,
-      "lastSuccess": 1667962305276
-    },
-    "virus-audio-v1.js": {
-      "total": 10,
-      "success": 7,
-      "last": 1667989484180,
-      "lastSuccess": 1667989484180
-    },
-    "virus-listbuggc.js": {
-      "total": 17,
-      "success": 17,
-      "last": 1667991350459,
-      "lastSuccess": 1667991350459
-    },
-    "owner-leavegc.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667980488532,
-      "lastSuccess": 1667980488532
-    },
-    "virus-listbug-v1.js": {
-      "total": 10,
-      "success": 1,
-      "last": 1667988800826,
-      "lastSuccess": 1667987733127
-    },
-    "downloader-facebook.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1667987916981,
-      "lastSuccess": 0
-    },
-    "virus-listbug-v2.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1667988437979,
-      "lastSuccess": 1667988437979
-    },
-    "virus-Sendbug.js": {
-      "total": 5,
-      "success": 0,
-      "last": 1667989229379,
-      "lastSuccess": 0
-    },
-    "virus-listbug.js": {
-      "total": 14,
-      "success": 13,
-      "last": 1667990601834,
-      "lastSuccess": 1667990601834
-    },
-    "virus-listbuggc-v1.js": {
-      "total": 10,
-      "success": 0,
-      "last": 1667990979590,
-      "lastSuccess": 0
-    },
-    "sticker-toimg.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1667991155002,
-      "lastSuccess": 1667991155002
-    }
-  },
-  "msgs": {},
-  "sticker": {},
-  "settings": {
-    "6283838186170@s.whatsapp.net": {
-      "self": false,
-      "autoread": true,
-      "jadibot": false,
-      "restrict": true,
-      "autorestart": true,
-      "restartDB": 0
-    },
-    "6281265970249@s.whatsapp.net": {
-      "self": false,
-      "autoread": true,
-      "jadibot": false,
-      "restrict": true,
-      "autorestart": true,
-      "restartDB": 0
-    },
-    "6283870480221@s.whatsapp.net": {
-      "self": false,
-      "autoread": true,
-      "jadibot": false,
-      "restrict": true,
-      "autorestart": true,
-      "restartDB": 0
-    },
-    "6282112528815@s.whatsapp.net": {
-      "self": false,
-      "autoread": true,
-      "jadibot": false,
-      "restrict": true,
-      "autorestart": true,
-      "restartDB": 0
+  "keys": {
+    "preKeys": {
+      "1": {
+        "private": {
+          "type": "Buffer",
+          "data": "GOvBTYgHv14zI9zTiRC/to8qT/tVBXy+UOWvRtdMVno="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "pgSSUoQL0hLzvd0xlPAVDJxYvfpI1H3cZrlqu7KGTRk="
+        }
+      },
+      "2": {
+        "private": {
+          "type": "Buffer",
+          "data": "mAzyZlE9cKJfQmJPTt0/CvCI/cFYaSLDN7Bi9yoCSk8="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "tHBfuJlOVeBrcfV5ceDOHQf2SG/+KRIDCTftMqivvBI="
+        }
+      },
+      "3": {
+        "private": {
+          "type": "Buffer",
+          "data": "MCL78I5FlcKL1wD4B0It0ZcJxhIrZug/LtNvQedLznY="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "9xGW0Bp4qhIt/aH49B74pXWWGK/VbbB/S7YvNH3BakM="
+        }
+      },
+      "4": {
+        "private": {
+          "type": "Buffer",
+          "data": "GDzKn9yEnT8irD+tEhWEPGwekccwM1HH+oYjRu47GWc="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "4GR2+VIwAgX2gNLzrr2uoGCfECFIMGj6WCh7O614fi4="
+        }
+      },
+      "5": {
+        "private": {
+          "type": "Buffer",
+          "data": "iC8o3QmiyKue/AAMx0MsYZBi2ijhkW4moLSnKXEzdGY="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "/Qagkb6XNhXWQJBRAHB66zWr88ftdh+CHp3fF5064H4="
+        }
+      },
+      "6": {
+        "private": {
+          "type": "Buffer",
+          "data": "oBZRWiA81tO7tZKX7zp2zGPLQ8WCW/giplCZB352c0E="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "13loZKva0klI2tNXZpxL3mwdt6ktcX9pgdZ7oC7zEyE="
+        }
+      },
+      "7": {
+        "private": {
+          "type": "Buffer",
+          "data": "KLQYTPBzaEEAhLhSYcxIYGrJdX7DSB6uU+Tr0vzV7EU="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "aaPKYGvZ0cd1aUXWcbIlK8Z4BtLZNYywqvxoGX39lA0="
+        }
+      },
+      "8": {
+        "private": {
+          "type": "Buffer",
+          "data": "0KtltJlsnPnU7LCqB38H3uSH/0eMahQJ7KWxCLy+lmc="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "bFER4Q/kEIa7dMlqP8kHtJtQECAY1hoSdT819A0o/EM="
+        }
+      },
+      "9": {
+        "private": {
+          "type": "Buffer",
+          "data": "qMPsfDWRoeUCTOh7WsCoJxMdBAtW+8aE0Pq3hgnUOGk="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "my93oG5URK79QrqDjMyL1ZAEJh2aDPXE3RfFva13PUI="
+        }
+      },
+      "10": {
+        "private": {
+          "type": "Buffer",
+          "data": "aGK6XVRM2LNGs1OhXMNnAWenusRZAV26DW2q/jiEjn8="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "NqcAYjXhS4JP/CMeR+VlAYelvEw5FxeUcWURgdfNIik="
+        }
+      },
+      "11": {
+        "private": {
+          "type": "Buffer",
+          "data": "2LIGV80D6so7WJG4Ouda4UNLk0PRomKIijsXgxT4yG8="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "zmScXr4rIQeDPp0DzJWGXw7Y/oXqV5wfJWQOz/wiBhM="
+        }
+      },
+      "12": {
+        "private": {
+          "type": "Buffer",
+          "data": "UANb0MYJA4u8M3Nq3xG/Lq4zUFvCY3fmnOV5iwEOjHI="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "uE9bFcOBuEMUFi52DZkybamkn1VQaB8E4sL7jWE5fkc="
+        }
+      },
+      "13": {
+        "private": {
+          "type": "Buffer",
+          "data": "gDFjLdScAJFxpluzfZOE2u+RIklwaZIofrsX7A7jcEE="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "zHsDji7hu5evytMRkkfdJPRCFxgZ+XI7tkCMW0D2Sn0="
+        }
+      },
+      "14": null,
+      "15": {
+        "private": {
+          "type": "Buffer",
+          "data": "sNzYBuGn9NE3zYDHSy0yPeMDVjrCsqsPo2Q+5UjP4GM="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "YQtBf9cJRfXaXPb393Rzg5u7lSDDABadWamH5cx4Ujg="
+        }
+      },
+      "16": {
+        "private": {
+          "type": "Buffer",
+          "data": "+LvsVDUnDMNG43T646tycqOaegxPtfWgEyWBXtUFP3g="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "vLiTjT7tEvMlJSoWyKvIl4XJbSdQEUx0g7++CH1YqQo="
+        }
+      },
+      "17": {
+        "private": {
+          "type": "Buffer",
+          "data": "CNkOS/R4gMH3SWV8bSkUZyQx7Q04q6vtPXmaWfFojGA="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "MJO+4zWBZrGsaiy1bwrxZBuoA7rzt0L/GWevjRcUn0I="
+        }
+      },
+      "18": {
+        "private": {
+          "type": "Buffer",
+          "data": "oCxXywZzzi4Q+x5tOrMYuq/9Bn7oktoeWtnVHbGq40g="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "QR3Y9g0kzeeGpTOLVzfVULDkXsWel1UQSOf5HELG9k0="
+        }
+      },
+      "19": {
+        "private": {
+          "type": "Buffer",
+          "data": "uAJhp3sepyXa5cryLscldo0pC5px0BNQGhw60eW4fVI="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "NAj7UfvTxtRsHWHlfXXsWGPCqRpY1RPXobsEvl1bNmc="
+        }
+      },
+      "20": {
+        "private": {
+          "type": "Buffer",
+          "data": "8HvQJqgzelv9WhFGy1LUQKRkcvVSSWySZ9IuR6j5NUU="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "qSHM9gSAk45EXKxEk6o5wDYrK3CX8NCqi6DfwMUQxRI="
+        }
+      },
+      "21": {
+        "private": {
+          "type": "Buffer",
+          "data": "QKNc5EcOtlhSYqtbasylocT335OlQAmHPzg6sgjZqXo="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "Qr4tulAa1tQJF6dO/1NcGM47qH1WXpNAOLSITWpTAGk="
+        }
+      },
+      "22": {
+        "private": {
+          "type": "Buffer",
+          "data": "WOsSJ7RtxQDR/FK907xk+pGOZ9ZR4iMCbjyAXI938Gw="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "KfHAP91s7xHeZlPYPyHWuSIzXf7I9F1yeR0VXfR90HY="
+        }
+      },
+      "23": {
+        "private": {
+          "type": "Buffer",
+          "data": "MHKfNMylUh1yqh9L2DkYCCF0iCSbtoDdR5nl5fchvkE="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "uwhrLnZyAtKOyBkPthBYv1vUXLcoS0PElbfMvhCb5A4="
+        }
+      },
+      "24": {
+        "private": {
+          "type": "Buffer",
+          "data": "YIb05W7n7qJCjdBcqLd93xRzkXktTnjbaXXa/FhLsVE="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "WuaYV82FnQJSKoUwbdua4FT5Y/mIo+myDORL0dk49xI="
+        }
+      },
+      "25": {
+        "private": {
+          "type": "Buffer",
+          "data": "WAi3iCnLg1qYYDyCuQ9fvZtBQaDYSjnDvSBLrDz2gGo="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "kcJJI3oyFQnqAtOQxXL+jjAX+dGpe/XWhkvdnIV9lz4="
+        }
+      },
+      "26": {
+        "private": {
+          "type": "Buffer",
+          "data": "2MRzOKFQD7u0+lWfG23MSVqiN+7a4ENw7U5UA4+vAk4="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "AdWZm7PHJoLZYkck0lbK2+g0g68WQfC7Z0uZcmFAjmc="
+        }
+      },
+      "27": {
+        "private": {
+          "type": "Buffer",
+          "data": "eCehIX62P8F6nuT8DyOHz02YxuqsXur8hfnq88RT/28="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "jMmCvFS3JyDUbsncwZIQFc5qTK1MrM9aPWjAljv2RSM="
+        }
+      },
+      "28": {
+        "private": {
+          "type": "Buffer",
+          "data": "yF5vyYR8UnRB0sEiC4IT0QbGH457SJ2Z/rHPY65iaHs="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "BvG+RkCYx/ZRxNjiC3rG90X7gX/rYI13Brd+7JKh1HE="
+        }
+      },
+      "29": {
+        "private": {
+          "type": "Buffer",
+          "data": "uELhRzqcqeufO6R8FvQq9PS9z1pPCbVTtszZPLzIRXI="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "n75sfeZRQDupiBX79GiHML7qShHiWR1+7C5hBa40JTU="
+        }
+      },
+      "30": {
+        "private": {
+          "type": "Buffer",
+          "data": "AB1CtLKPWXz3mjMR5s51R1/aFJaCi3giGuc+Ltb1Skw="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "998STrxiNU2ZwEwHJmboWQ4mck85vdJIPK+QmYBVeS4="
+        }
+      }
+    },
+    "sessions": {
+      "6281338988570.0": {
+        "_sessions": {
+          "BSqnb9+iVNH2JtHTXrGqwsM3Css9o0g8r9QjZbsaS/0Y": {
+            "registrationId": 1254039676,
+            "currentRatchet": {
+              "ephemeralKeyPair": {
+                "pubKey": "BdTWSqEUQEHwJNrVeCFVV5dGHEfY/5BhR1kBRlsmqYg5",
+                "privKey": "gENs2LzZb5c4jGjVhkbx8GCSHkUE++pTmlPGkFTApFo="
+              },
+              "lastRemoteEphemeralKey": "BUDjfbVsP2i3sK4b5eI8kKnnUzWzBmi4X0IN/mwzLmwe",
+              "previousCounter": 0,
+              "rootKey": "LI/1bi8lh0wjd0GTVo+8fYGlw+rZG7erMjpV2Q/lGXo="
+            },
+            "indexInfo": {
+              "baseKey": "BSqnb9+iVNH2JtHTXrGqwsM3Css9o0g8r9QjZbsaS/0Y",
+              "baseKeyType": 2,
+              "closed": -1,
+              "used": 1669104820085,
+              "created": 1669104820085,
+              "remoteIdentityKey": "Bb578IhzzbOYXgJX2aXimFX7Frw61hGunZ04VAt3Ji1c"
+            },
+            "_chains": {
+              "BUDjfbVsP2i3sK4b5eI8kKnnUzWzBmi4X0IN/mwzLmwe": {
+                "chainKey": {
+                  "counter": 1,
+                  "key": "/xF42r20Ky09j/IputxqkP+bk6dUghBjrptVifd3RVo="
+                },
+                "chainType": 2,
+                "messageKeys": {}
+              },
+              "BdTWSqEUQEHwJNrVeCFVV5dGHEfY/5BhR1kBRlsmqYg5": {
+                "chainKey": {
+                  "counter": -1,
+                  "key": "DWvHNpsjqkfHHI63f9AhEOD93U91bCLdv9fakItiJgY="
+                },
+                "chainType": 1,
+                "messageKeys": {}
+              }
+            }
+          }
+        },
+        "version": "v1"
+      }
+    },
+    "appStateSyncKeys": {
+      "AAAAAHUB": {
+        "keyData": "pKY6GJ1G/wqj7TH4AZLvHroQceh8PMHiWrQkE2cQrd8=",
+        "fingerprint": {
+          "rawId": 707630494,
+          "currentIndex": 1,
+          "deviceIndexes": [
+            0,
+            1
+          ]
+        },
+        "timestamp": "1669104821554"
+      }
     }
   }
 }
